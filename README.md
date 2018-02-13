@@ -31,7 +31,7 @@ Make sure that these programs are installed and are in your system's executable 
 
 Running:
 
-1. Donwload multigenome2bolcks
+1. Download multigenome2bolcks
 2. Make multigenome2blocks.pipeline.sh and all scripts in directory /scripts executable: chmod -R +x *
 3. For usage display just type:
 
