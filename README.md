@@ -33,8 +33,8 @@ Running:
 2. Make multigenome2blocks.AMPHORA.pipeline.sh and all scripts in directory /scripts executable: chmod -R +x *
 3. For usage display just type:
 
-        ./multigenome2blocks.AMPHORA.pipeline.sh
-         usage: ./multigenome2blocks.AMPHORA.pipeline.sh path_to_multigenome2blocks_scripts_directory path_to_AMPHORA_scripts file_extention common_id_own_genomes genetic code num_cpus
+        ./multigenome2blocks.pipeline.sh
+         usage: ./multigenome2blocks.pipeline.sh path_to_multigenome2blocks_scripts_directory path_to_AMPHORA_scripts file_extention common_id_own_genomes genetic code num_cpus
 
 
     
