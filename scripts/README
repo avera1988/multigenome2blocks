@@ -1,0 +1,19 @@
+This folder contains all scripts for multigenome2blocks.
+
+multifasta to one line converter:
+
+multifasta2oneline.pl
+
+Automatic Mafft aligment
+
+      mafft.sh
+
+
+Multifasta header modiffication:
+    header.afterprod.parama.pl
+    headers.mod.prop.pl
+    
+Merge multi protein Alignment:
+
+      merge_seqs.pl
+      
