@@ -1,9 +1,11 @@
 # multigenome2blocks
 Author Arturo Vera
+
 Feb-2018
+
 This pipeline gives you a concatenated multi-alignment of 31 Single Copy Markers from genome assembly to create robust phylogenies.
 
-Multigenoe2Blocks predic CDS from a genome using Prodigal. From these CDS extract 31 Single Copy Markers using AMPHORA2 pipeline . After extraction all meker genes are concatenated and then aligned with MAFT to generate a single alignment file. Conserved protein blocks are then obtained by Gblocks.
+multigenome2blocks predic CDS from a genome using Prodigal. From these CDS extract 31 Single Copy Markers genes using AMPHORA2 pipeline for phylogenomic clustering. After extraction all meker genes are concatenated and then aligned with MAFT to generate a single alignment file. Conserved protein blocks are then obtained by Gblocks.
 
 
 For any inquiries sent an email to Arturo Vera: veraponcedeleon@osu.edu
