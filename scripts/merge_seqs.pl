@@ -1,9 +1,11 @@
 #!/usr/bin/perl -w
-####################################################################################################3
-#This software merged all sequences froma concatenated after clustal alig
+################################################################################################################
+#This software merged all sequences from alignment after using maftt
 #The sequences need to be concatenated i.e. cat *.fa > allseqs.fa
 #Then use script
-##############################################################################################################3333
+#Author Arturo Vera
+#################################################################################################################
+
 
 use strict;
 use Bio::SeqIO;
