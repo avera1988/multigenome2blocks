@@ -2,6 +2,7 @@
 Author Arturo Vera
 
 Feb-2018
+modif. Apr-2020
 
 This pipeline gives you a concatenated multi-alignment of 31 Single Copy Markers from genome assembly to create robust phylogenies.
 
@@ -42,8 +43,7 @@ Running:
          usage: ./multigenome2blocks.pipeline.sh path_to_multigenome2blocks_scripts_directory path_to_AMPHORA_scripts file_extention common_id_own_genomes genetic code num_cpus
 
 
-    
-    
+**Please use this paper to cite the repository: Vera-Ponce de León A, Jahnes BC, Duan J, Camuy-Vélez LA, Sabree ZL. 2020. Cultivable, host-specific Bacteroidetes symbionts exhibit diverse polysaccharolytic strategies. Appl Environ Microbiol 86:e00091-20. https://doi.org/10.1128/AEM.00091-20.
     
     
     
